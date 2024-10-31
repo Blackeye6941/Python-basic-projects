@@ -1,1 +1,1 @@
-Basic python prjects to learn the syntax and working
+Basic projects to learn the syntax of python and put forward a step to ml
